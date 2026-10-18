@@ -1,6 +1,7 @@
 Turn On USB Debugging and WiFi Debugging on your device.
 
 Step 1: Install Homebrew through terminal.
+
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
 Step 2: There will be section after installation is done labelled as "Next Step" 
